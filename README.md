@@ -1,2 +1,2 @@
-# Zombie-Shooter-Beta
+# Shooter-Beta
 Zombie Shooter Game Beta Version.
