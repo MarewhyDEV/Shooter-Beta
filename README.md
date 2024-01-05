@@ -1,2 +1,2 @@
 # Shooter-Beta
-Zombie Shooter Game Beta Version.
+Shooter Game Beta Version.
